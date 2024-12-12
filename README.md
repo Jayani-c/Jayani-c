@@ -173,9 +173,7 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jayani-c/Jayani-c/output/snake.svg" alt="Snake animation" onError="this.onerror=null; this.src='https://via.placeholder.com/150?text=Animation+Not+Available';"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jayani-c&theme=tokyonight" alt="Contribution Activity" />
 </div>
 
