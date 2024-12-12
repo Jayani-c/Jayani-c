@@ -93,13 +93,13 @@
 
 ###
 
-<h3 align="left">Holopin</h3>
+<!-- <h3 align="left">Holopin</h3> -->
 
-###
+<!-- ###
 
-[![@ravindu0823's Holopin board](https://holopin.me/ravindu0823)](https://holopin.io/@ravindu0823)
+[![@Jayani-c's Holopin board](https://holopin.me/Jayani-c)](https://holopin.io/@Jayani-c)
 
-###
+### -->
 
 <h3 align="left">Contributions</h3>
 
@@ -107,6 +107,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ravindu0823/ravindu0823/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jayani-c/Jayani-c/output/snake.svg" alt="Snake animation" />
 
 ###
