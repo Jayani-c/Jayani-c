@@ -169,7 +169,6 @@
 </div>
 
 ---
-
 <h3 align="center">🌀 Contributions 🌀</h3>
 
 ###
@@ -177,7 +176,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jayani-c/Jayani-c/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Jayani-c/Jayani-c/output/snake.svg" alt="Snake animation" onError="this.onerror=null; this.src='https://via.placeholder.com/150?text=Animation+Not+Available';"/>
 </div>
 
----
