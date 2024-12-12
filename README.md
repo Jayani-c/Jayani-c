@@ -177,3 +177,15 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jayani-c&theme=tokyonight" alt="Contribution Activity" />
 </div>
 
+
+###
+
+<h3 align="left">Contributions</h3>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ravindu0823/ravindu0823/output/snake.svg" alt="Snake animation" />
+
+###
