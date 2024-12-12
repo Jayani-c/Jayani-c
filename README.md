@@ -169,7 +169,7 @@
 </div>
 
 ---
-<h3 align="center">🌀 Contributions 🌀</h3>
+<!-- <h3 align="center">🌀 Contributions 🌀</h3>
 
 ###
 
@@ -190,4 +190,4 @@
 <img src="https://raw.githubusercontent.com/Jayani-c/Jayani-c/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+### -->
