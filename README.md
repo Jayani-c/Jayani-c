@@ -186,6 +186,8 @@
 
 <br clear="both">
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/Jayani-c/Jayani-c/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
