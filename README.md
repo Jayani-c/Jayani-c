@@ -109,8 +109,8 @@
 
 <img src="https://raw.githubusercontent.com/Jayani-c/Jayani-c/output/snake.svg" alt="Snake animation" /> -->
 
-<!-- ### --> -->
-
+<!-- ### --> 
+### Hi, I'm Jayani Samarasinghe.😎 Welcome to my GitHub! 🎉
 
 <h4 align="center">Associate Software Engineer 💻 | Problem Solver 🧩 | Passionate about AI, QA, and Full-Stack Development 🚀</h4>
 
