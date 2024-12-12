@@ -186,6 +186,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ravindu0823/ravindu0823/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jayani-c/Jayani-c/output/snake.svg" alt="Snake animation" />
 
 ###
