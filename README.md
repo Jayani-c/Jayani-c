@@ -112,7 +112,7 @@
 <!-- ### --> 
 ### Hi, I'm Jayani Samarasinghe.😎 Welcome to my GitHub! 🎉
 
-<h4 align="center">Associate Software Engineer 💻 | Problem Solver 🧩 | Passionate about AI, QA, and Full-Stack Development 🚀</h4>
+<h4 align="center"> Software Engineer 💻 | Academic Instructor at SLIIT 👨🏻‍💻|Problem Solver 🧩 | Passionate about AI, QA, and Full-Stack Development 🚀</h4>
 
 ---
 
